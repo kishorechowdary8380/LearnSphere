@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+body{
+	background-color: rgb(60, 60, 60);
+}
+table{
+	
+	color: white;
+	margin-left: 30%;
+	margin-top: 3%;
+}
+h1{
+	color: white;
+	margin-left: 30%;
+}
+table,th,td{
+	border: 1px solid;
+}

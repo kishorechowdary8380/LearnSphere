@@ -1,0 +1,53 @@
+@charset "ISO-8859-1";
+
+
+body{
+	
+	background-image: url("/images/background.avif");
+     background-size:cover;
+     }
+     
+.quote{
+	font-family:sans-serif;
+	font-size:230%;
+	color: black;
+	margin-top: 5%;
+	margin-left: 4%;
+}
+     
+.regestertable{
+	box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+	padding-top: 2%;
+	width: 350px;
+	height: 420px;
+	background-color: white;
+	margin-left: 15%;
+	margin-top: 4%;
+}
+
+.email{
+	margin-left: 10%;
+}
+.regester{
+	padding: 1%;
+	padding-left: 2%;
+	padding-right: 2%;
+	border-radius: 15px;
+	border: none;
+	background-color: blue;
+	color: white;
+}
+.regester:hover{
+	background-color: green;
+}
+label{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: 500;
+}
+.login{
+	 margin-top: 1%;
+	 color: white;
+	 font-size:larger;
+	 
+	 margin-left: 17%;
+}

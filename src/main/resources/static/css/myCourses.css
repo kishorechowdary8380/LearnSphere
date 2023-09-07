@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+body{
+	background-color: rgb(60, 60, 60);
+}
+table , th,td{
+	color: white;
+	border: 1px solid;
+}
+
+table{
+	margin-top: 10%;
+}

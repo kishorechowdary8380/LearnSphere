@@ -1,0 +1,91 @@
+
+@charset "ISO-8859-1";
+.header{
+	color: white;
+	text-align:center;
+	background-color:rgb(0,0,0,0.2);
+	font-family:sans-serif;
+	font-size:250%;
+	padding: 5px;
+	position: fixed;
+	width: 100%;
+}
+body{
+	
+	background-image: url("/images/background.avif");
+     background-size:cover;
+     
+     
+    
+}
+body::-webkit-scrollbar{
+	display: none;
+}
+
+#login{
+	background-color: white;
+	border-radius: 15%;
+	text-align: center;
+	margin-left: 85%;
+	margin-top: 15%;
+	padding: 1%;
+	
+	
+}
+#regester{
+	background-color: white;
+	border-radius: 15%;
+	text-align: center;
+	margin-left: 84.5%;
+	margin-top: 4%;
+	padding: 1%;
+	
+}
+
+#login:hover{
+	background-color:green;
+	color:white;
+}
+
+#regester:hover{
+	background-color:green;
+	color:white;
+}
+
+.para{
+	color: black;
+	background-color: antiquewhite;
+	font-family: sans-serif;
+	height: 97px;
+	width: 800px;
+	margin-left: 6%;
+	margin-top: -22%;
+	text-align: justify;
+	border-radius: 10px;
+	padding: 10px;
+	
+}
+.para:hover{
+	box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.founder{
+	background-image: url("/images/kishore.jpeg");
+	background-size: cover;
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	margin-left: 3%;
+	margin-top: 25%;
+}
+.founder:hover{
+	box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+.quoit{
+	font-size:xx-large;
+ 	margin-top: -8%;
+ 	margin-left: 20%;
+ 	font-family: 'Brush Script MT', cursive;
+
+}
+
